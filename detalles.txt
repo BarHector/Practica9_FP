@@ -1,0 +1,6 @@
+Elaborar un programa un programa que imprima un cuadrado y un pino (sin base)
+de asterisco (*).
+
+Notas:
+El cuadrado se imprime de 6x6, mientras que el pino puede ser de distinto tamaño.
+Se puede hacer que el cuadrado sea del tamaño que el usuario quiera.
